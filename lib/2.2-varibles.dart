@@ -17,7 +17,6 @@ void main() {
   ////Error: A value of type 'int' can't be assigned to a variable of type 'String'.
 
 
-
   // 4. Создать целочисленную переменную с именем dyn при помощи dynamic
   dynamic dyn = 123;
   //попытаться присвоить переменной строковое значение переменной text
