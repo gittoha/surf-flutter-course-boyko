@@ -19,13 +19,3 @@ class ClassWithGeneric<T extends String>{
     return str;
   }
 }
-
-
-class MyApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      home: Container(),
-    );
-  }
-}
